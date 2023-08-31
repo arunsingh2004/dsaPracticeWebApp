@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata");
+
+body {
+  /* margin: 0; */
+  overflow-y: hidden;
+  /* font-family: monospace; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

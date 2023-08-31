@@ -1,0 +1,22 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 45px;
+  background-color: rgb(19, 103, 247);
+  transition: all 0.4s ease-in-out;
+}
+
+.footer-toggle {
+  display: flex;
+  justify-content: space-evenly;
+  width: fit-content;
+  position: relative;
+}
+/* .facebook {
+  padding: 2px;
+  background-color: azure;
+  border-radius: 100%;
+  width: fit-content;
+  height: 30px;
+} */
