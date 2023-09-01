@@ -35,10 +35,10 @@ export default function Navbar({
     <>
       <div className="">
         <nav
-          className="navbar bg-info d-flex justify-content-around  "
+          className="navbar bg-info d-flex flex-wrap justify-content-around  "
           style={{ backgroundColor: dark ? "#393E46" : "" }}
         >
-          <div className="d-flex bd-highlight ">
+          <div className="d-flex bd-highlight flex-wrap ">
             <div className="p-2 bd-highlight">
               <a href="/">
                 <h4>

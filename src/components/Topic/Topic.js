@@ -424,7 +424,7 @@ export default function Topic({ data, updateData }) {
   function displayToast(isSelect, id) {
     const { type, icon, dir } = {
       type: isSelect ? "Done" : "Incomplete",
-      icon: isSelect ? "🎉" : "🙇🏻‍♂️",
+      icon: isSelect ? "❤️‍🔥" : "🙇🏻‍♂️",
       dir: isSelect ? "👇🏻" : "👆🏻",
     };
 

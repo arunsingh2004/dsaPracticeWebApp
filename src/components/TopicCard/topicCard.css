@@ -14,7 +14,7 @@
   border: 3px solid rgba(78, 78, 78, 0.452); /* creates padding around scroll thumb */
 }
 .inprogress-card {
-  background-color: #aad6b9;
+  background-color: #0be5e9;
   border-radius: 15px;
   height: 90%;
 }
@@ -31,13 +31,13 @@
   font-weight: 700;
 }
 .notstarted-card {
-  background-color: #aad0f6;
+  background-color: #33c4ec;
   border-radius: 15px;
   height: 90%;
 }
 
 .percentDone {
-  color: #4f4f4f;
+  color: #0b1dde;
 }
 
 .container-custom2 {
@@ -71,7 +71,7 @@
   background: -webkit-linear-gradient(
     to right,
     #ff6a00,
-    #069fd6
+    #73cff1
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,

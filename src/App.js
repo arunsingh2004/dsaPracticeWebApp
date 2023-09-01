@@ -13,7 +13,6 @@ import TopicCard from "./components/TopicCard/TopicCard";
 import Topic from "./components/Topic/Topic";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
 import ReactGA from "react-ga4";
 import "./App.css";
 import Navbar from "./components/Navbar/navbar";
