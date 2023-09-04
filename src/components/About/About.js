@@ -26,9 +26,9 @@ export default function About({ resetData, exportData, importData }) {
   }
   return (
     <>
-      <div className="about">
+      <div className="about container-custom">
         <Fade duration={500}>
-          <div className="container my-3">
+          {/* <div className="container my-3">
             <Alert variant="primary">
               <Alert.Heading className="text-center">About</Alert.Heading>
               <hr />
@@ -38,10 +38,10 @@ export default function About({ resetData, exportData, importData }) {
                 placements <span role="img" aria-label="student"></span>
               </h4>
             </Alert>
-          </div>
+          </div> */}
           <div className="container my-5">
             <h2 className="text-center">
-              <a href="/">DSA</a> is your personal web-based DSA tracker based
+              <a href="/">APP</a> is your personal web-based DSA tracker based
               on <br></br>
               <i>
                 <a
@@ -59,7 +59,7 @@ export default function About({ resetData, exportData, importData }) {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Striver,Love Babbar,And many more...
+                  Striver && Love Babbar ...
                 </a>
               </b>{" "}
               <span role="img" aria-label="join-hands"></span>

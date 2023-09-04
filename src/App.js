@@ -144,7 +144,7 @@ function App() {
                   children={<TopicCard questionData={questionData}></TopicCard>}
                 />
                 <Route
-                  path="/about"
+                  path="/About"
                   children={
                     <About
                       resetData={resetData}
@@ -154,7 +154,7 @@ function App() {
                     ></About>
                   }
                 />
-                <Route path="/contact" children={<Contact></Contact>} />
+                <Route path="/Contact" children={<Contact></Contact>} />
                 {/* TOPIC ROUTE */}
                 <Route
                   path="/array"

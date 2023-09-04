@@ -8,6 +8,8 @@ import Spinner from "react-bootstrap/Spinner";
 import Fade from "react-reveal/Fade";
 import { BsFacebook } from "react-icons/bs";
 import { AiFillLinkedin } from "react-icons/ai";
+import About from "../About/About";
+import Contact from "../Contact/Contact";
 export default function Navbar({
   dark,
   setDark,

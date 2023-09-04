@@ -1,8 +1,10 @@
-.about {
-  position: relative;
-  overflow: scroll;
-  margin-bottom: 100px;
-}
 .social {
   margin-left: 550px;
+}
+
+@media screen and (max-width: 400px) {
+  .about {
+    max-width: 80vw;
+    overflow-y: scroll;
+  }
 }
